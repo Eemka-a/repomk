@@ -1,0 +1,2 @@
+# repomk
+oprogramowanie uzytkowe
